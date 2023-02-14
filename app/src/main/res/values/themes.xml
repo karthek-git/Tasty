@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.Tasty" parent="android:Theme.Material.Light.NoActionBar">
+		<item name="android:colorPrimary">@color/blue_600</item>
+		<item name="android:windowBackground">@android:color/white</item>
+		<item name="android:windowActivityTransitions">true</item>
+	</style>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">Tasty</string>
+	<string name="content_empty">Nothing found!</string>
+	<string name="created_at">Created at</string>
+	<string name="content_info">Search something…</string>
+	<string name="search">Search recipes</string>
+	<string name="retry">Retry</string>
+	<string name="no_net_connection">No internet connection</string>
+</resources>
